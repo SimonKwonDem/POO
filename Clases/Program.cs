@@ -13,7 +13,7 @@
 
         Persona p1 = new Persona();
         p1.nombre = "José";
-        p1.apellido = "Pérez";
+        p1.apellido = "Alvarez";
         p1.edad = 23;
         p1.ocupación = "programador";
         p1.Caminar();
