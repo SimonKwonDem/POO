@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Act2.Ejercicio3": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
